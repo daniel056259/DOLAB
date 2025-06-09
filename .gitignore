@@ -1,0 +1,8 @@
+__pycache__/
+.config/
+.pytest_cache/
+.venv/
+.vscode/
+logs/
+test_logs/
+tests/

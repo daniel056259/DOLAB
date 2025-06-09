@@ -1,0 +1,11 @@
+{
+    "model_dir": "/workspace/models/",
+    "source_dir": "/workspace/logs/",
+    "target_dir": "/workspace/dolab/",
+    "archive_format": "tar.gz",
+    "timestamp_format": "%Y%m%d_%H%M%S",
+    "socket": "/tmp/ws_signal.sock",
+    "client_connected_socket": "/tmp/ws_client_connected.sock",
+    "websocket_server_path": "/root/DOLAB/websocket_server.py",
+    "main_path": "/workspace/mnist_example.py"
+}
